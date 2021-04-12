@@ -1,5 +1,5 @@
 **Unlimited-health-rehabilitation** 
-## 健康復健不受限
+# 健康復健不受限
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_01.jpg)
 
 **基本說明**
@@ -14,12 +14,12 @@
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_02.jpg)
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_03.jpg)
-**How to install?**
+### How to install?
 `$git clone https://github.com/hao800922/GUI_face_login_system.git
 $cd GUI_face_login_system.git
 $sudo pip3 install -r requirements.txt`
-**How to use?**
-$python3 MAIN_MENU.py
+### How to use?
+`$python3 MAIN_MENU.py`
 
 ## LASER_EYES
 **Your eyes emit Laser and burn anything.**
@@ -29,11 +29,11 @@ $python3 MAIN_MENU.py
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_02.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_04.jpg)
-**How to install?**
+### How to install?
 `$git clone https://github.com/hao800922/LASER_EYES.git
 $cd LASER_EYES
 $sudo pip3 install -r requirements.txt`
-**How to use?**
+### How to use?
 `$C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\bin\setupvars.bat
 $python3 lasereye.py`
 
@@ -45,11 +45,11 @@ $python3 lasereye.py`
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_02.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_03.jpg)
-**How to install?**
+### How to install?
 `$git clone https://github.com/hao800922/NINJA_WARS.git
 $cd NINJA_WARS
 $sudo pip3 install -r requirements.txt`
-**How to use?**
+### How to use?
 `$python3 NinjaWar.py`
 
 
@@ -61,11 +61,11 @@ $sudo pip3 install -r requirements.txt`
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_1.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_4.jpg)
-**How to install?**
+### How to install?
 `$git clone https://github.com/hao800922/UFO_WARS.git
 $cd UFO_WARS
 $sudo pip3 install -r requirements.txt`
-**How to use?**
+### How to use?
 `$python3 UFO_WAR.py`
 
 ## HAPPY_BIRDS
@@ -76,11 +76,11 @@ $sudo pip3 install -r requirements.txt`
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_02.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_03.jpg)
-**How to install?**
+### How to install?
 `$git clone https://github.com/hao800922/HAPPY_BIRDS.git
 $cd HAPPY_BIRDS
 $sudo pip3 install -r requirements.txt`
-**How to use?**
+### How to use?
 `$python3 happy_bird_V4_end.py`
 
 
