@@ -1,6 +1,7 @@
 "# Unlimited-health-rehabilitation" 
-健康復健不受限
+## 健康復健不受限
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_01.jpg)
+
 ## 基本說明
 - 使用人臉辨識登入
 - 使用python + opencv + tenserflow + pygame
@@ -15,10 +16,24 @@
 
 ## LASER_EYES
 - menu
-![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/laser_01.jpg)
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_01.jpg)
 - Game presentation-1
-![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/laser_02.jpg)
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_02.jpg)
 - score
-![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/laser_03.jpg)
-![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/laser_04.jpg)
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_04.jpg)
 
+## NINJA_WARS
+- menu
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_01.jpg)
+- Game presentation
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_02.jpg)
+- score
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_03.jpg)
+
+## UFO_WARS
+- menu
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_01.jpg)
+- Game presentation
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_02.jpg)
+- score
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_04.jpg)
