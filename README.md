@@ -7,80 +7,80 @@
 - 使用python + opencv + tenserflow + pygame
 
 ## GUI_face_login_system
-## GUI face login system are constructed using openCV and Pygame.
+**GUI face login system are constructed using openCV and Pygame.**
 - login
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_01.jpg)
 - recongnition
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_02.jpg)
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_03.jpg)
-## How to install?
+**How to install?**
 $git clone https://github.com/hao800922/GUI_face_login_system.git
 $cd GUI_face_login_system.git
 $sudo pip3 install -r requirements.txt
-## How to use?
+**How to use?**
 $python3 MAIN_MENU.py
 
 ## LASER_EYES
-## Your eyes emit Laser and burn anything.
+**Your eyes emit Laser and burn anything.**
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_01.jpg)
 - Game presentation-1
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_02.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_04.jpg)
-## How to install?
+**How to install?**
 $git clone https://github.com/hao800922/LASER_EYES.git
 $cd LASER_EYES
 $sudo pip3 install -r requirements.txt
-## How to use?
+**How to use?**
 $C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\bin\setupvars.bat
 $python3 lasereye.py
 
 ## NINJA_WARS
-## You play as a ninja to offset lightning.
+**You play as a ninja to offset lightning.**
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_01.jpg)
 - Game presentation
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_02.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_03.jpg)
-## How to install?
+**How to install?**
 $git clone https://github.com/hao800922/NINJA_WARS.git
 $cd NINJA_WARS
 $sudo pip3 install -r requirements.txt
-## How to use?
+**How to use?**
 $python3 NinjaWar.py
 
 
 ## UFO_WARS
-## A shooting game are constructed using openCV, Pose Estimation, and Pygame.
+**A shooting game are constructed using openCV, Pose Estimation, and Pygame.**
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_0.jpg)
 - Game presentation
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_1.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_4.jpg)
-## How to install?
+**How to install?**
 $git clone https://github.com/hao800922/UFO_WARS.git
 $cd UFO_WARS
 $sudo pip3 install -r requirements.txt
-## How to use?
+**How to use?**
 $python3 UFO_WAR.py
 
 ## HAPPY_BIRDS
-## A bird flies over pipe when you smile.
+**A bird flies over pipe when you smile.**
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_01.jpg)
 - Game presentation
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_02.jpg)
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_03.jpg)
-## How to install?
+**How to install?**
 $git clone https://github.com/hao800922/HAPPY_BIRDS.git
 $cd HAPPY_BIRDS
 $sudo pip3 install -r requirements.txt
-## How to use?
+**How to use?**
 $python3 happy_bird_V4_end.py
 
 
