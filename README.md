@@ -1,11 +1,11 @@
 **Unlimited-health-rehabilitation** 
 # 健康復健不受限
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_01.jpg)
-
+---
 **基本說明**
 - 使用人臉辨識登入
 - 使用python + opencv + tenserflow + pygame
-
+---
 ## GUI_face_login_system
 **GUI face login system are constructed using openCV and Pygame.**
 - login
@@ -20,7 +20,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 MAIN_MENU.py`
-
+---
 ## LASER_EYES
 **Your eyes emit Laser and burn anything.**
 - menu
@@ -36,7 +36,7 @@
 #### How to use?
 1. $C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\bin\setupvars.bat
 2. $python3 lasereye.py
-
+---
 ## NINJA_WARS
 **You play as a ninja to offset lightning.**
 - menu
@@ -51,8 +51,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 NinjaWar.py`
-
-
+---
 ## UFO_WARS
 **A shooting game are constructed using openCV, Pose Estimation, and Pygame.**
 - menu
@@ -67,7 +66,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 UFO_WAR.py`
-
+---
 ## HAPPY_BIRDS
 **A bird flies over pipe when you smile.**
 - menu
@@ -82,13 +81,10 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 happy_bird_V4_end.py`
-
-
+---
 ## Version
 - python 3.6, 3.7, 3.8
 - openCV 4.4
 - pygame 1.9.6
 - tensorflow 2.3
 - openvino 2020.1.033
-
-
