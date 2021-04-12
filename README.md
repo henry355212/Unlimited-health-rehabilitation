@@ -36,4 +36,12 @@
 - Game presentation
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_1.jpg)
 - score
-![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_3.jpg)
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_4.jpg)
+
+## HAPPY_BIRDS
+- menu
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_1.jpg)
+- Game presentation
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_2.jpg)
+- score
+![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_3.jpg)
