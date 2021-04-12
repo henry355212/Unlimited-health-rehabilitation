@@ -20,6 +20,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 MAIN_MENU.py`
+
 ---
 ## LASER_EYES
 **Your eyes emit Laser and burn anything.**
@@ -51,6 +52,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 NinjaWar.py`
+
 ---
 ## UFO_WARS
 **A shooting game are constructed using openCV, Pose Estimation, and Pygame.**
@@ -66,6 +68,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 UFO_WAR.py`
+
 ---
 ## HAPPY_BIRDS
 **A bird flies over pipe when you smile.**
@@ -81,6 +84,7 @@
 3. $sudo pip3 install -r requirements.txt
 #### How to use?
 `$python3 happy_bird_V4_end.py`
+
 ---
 ## Version
 - python 3.6, 3.7, 3.8
