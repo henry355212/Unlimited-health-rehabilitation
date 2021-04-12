@@ -30,12 +30,12 @@
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/LASER_04.jpg)
 ### How to install?
-`$git clone https://github.com/hao800922/LASER_EYES.git`
-`$cd LASER_EYES`
-`$sudo pip3 install -r requirements.txt`
+1. $git clone https://github.com/hao800922/LASER_EYES.git
+2. $cd LASER_EYES
+3. $sudo pip3 install -r requirements.txt
 ### How to use?
-`$C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\bin\setupvars.bat`
-`$python3 lasereye.py`
+1. $C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\bin\setupvars.bat
+2. $python3 lasereye.py
 
 ## NINJA_WARS
 **You play as a ninja to offset lightning.**
@@ -46,9 +46,9 @@
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/NINJA_03.jpg)
 ### How to install?
-`$git clone https://github.com/hao800922/NINJA_WARS.git`
-`$cd NINJA_WARS`
-`$sudo pip3 install -r requirements.txt`
+1. $git clone https://github.com/hao800922/NINJA_WARS.git
+2. $cd NINJA_WARS
+3. $sudo pip3 install -r requirements.txt
 ### How to use?
 `$python3 NinjaWar.py`
 
@@ -62,9 +62,9 @@
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/UFO_4.jpg)
 ### How to install?
-`$git clone https://github.com/hao800922/UFO_WARS.git`
-`$cd UFO_WARS`
-`$sudo pip3 install -r requirements.txt`
+1. $git clone https://github.com/hao800922/UFO_WARS.git
+2. $cd UFO_WARS
+3. $sudo pip3 install -r requirements.txt
 ### How to use?
 `$python3 UFO_WAR.py`
 
@@ -77,9 +77,9 @@
 - score
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/HAPPY_03.jpg)
 ### How to install?
-`$git clone https://github.com/hao800922/HAPPY_BIRDS.git`
-`$cd HAPPY_BIRDS`
-`$sudo pip3 install -r requirements.txt`
+1. $git clone https://github.com/hao800922/HAPPY_BIRDS.git
+2. $cd HAPPY_BIRDS
+3. $sudo pip3 install -r requirements.txt
 ### How to use?
 `$python3 happy_bird_V4_end.py`
 
