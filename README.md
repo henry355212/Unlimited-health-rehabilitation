@@ -15,9 +15,9 @@
 - menu
 ![ScreenShot](https://github.com/henry355212/Unlimited-health-rehabilitation/blob/master/githubimg/login_03.jpg)
 ### How to install?
-`$git clone https://github.com/hao800922/GUI_face_login_system.git`
-`$cd GUI_face_login_system.git`
-`$sudo pip3 install -r requirements.txt`
+1.$git clone https://github.com/hao800922/GUI_face_login_system.git
+2.$cd GUI_face_login_system.git
+3.$sudo pip3 install -r requirements.txt
 ### How to use?
 `$python3 MAIN_MENU.py`
 
